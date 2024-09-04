@@ -1,0 +1,2 @@
+void getData(char chain[100], int a, int b, int c, int d, char chaine1[100], int x, int y, int z, int o);
+void calcul(char chaine[100], int a, int b, int c, int d, char chaine1[100], int x, int y, int z, int o);
